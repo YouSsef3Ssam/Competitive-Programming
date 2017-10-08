@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463054504 source:e:\xo\xo game final\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

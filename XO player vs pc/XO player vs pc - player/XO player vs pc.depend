@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463054746 source:e:\project\xo player vs pc\xo player vs pc\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
